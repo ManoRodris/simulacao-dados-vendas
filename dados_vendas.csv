@@ -1,0 +1,501 @@
+id_venda,data,produto,categoria,preco_unitario,quantidade,loja,valor_total
+1,2024-01-01,Teclado Mecânico,Acessórios,671.41,2,Loja Centro,1342.82
+2,2024-01-02,Cadeira Gamer,Móveis,1752.43,3,Loja Centro,5257.29
+3,2024-01-03,Câmera de Segurança,Periféricos,891.85,9,Loja Sul,8026.65
+4,2024-01-04,Mouse Gamer,Acessórios,385.5,7,Loja Norte,2698.5
+5,2024-01-05,Mesa de Escritório,Móveis,2369.71,4,Loja Sul,9478.84
+6,2024-01-06,Teclado Mecânico,Acessórios,671.41,5,Loja Sul,3357.05
+7,2024-01-07,Impressora,Periféricos,1533.64,2,Loja Leste,3067.28
+8,2024-01-08,Tablet,Eletrônicos,767.06,8,Loja Sul,6136.48
+9,2024-01-09,Teclado Mecânico,Acessórios,671.41,4,Loja Centro,2685.64
+10,2024-01-10,Câmera de Segurança,Periféricos,891.85,9,Loja Sul,8026.65
+11,2024-01-11,Câmera de Segurança,Periféricos,891.85,5,Loja Centro,4459.25
+12,2024-01-12,Mouse Gamer,Acessórios,385.5,9,Loja Centro,3469.5
+13,2024-01-13,Mesa de Escritório,Móveis,2369.71,4,Loja Centro,9478.84
+14,2024-01-14,Cadeira Gamer,Móveis,1752.43,5,Loja Norte,8762.15
+15,2024-01-15,Mouse Gamer,Acessórios,385.5,9,Loja Leste,3469.5
+16,2024-01-16,Mouse Gamer,Acessórios,385.5,8,Loja Centro,3084.0
+17,2024-01-17,Tablet,Eletrônicos,767.06,3,Loja Centro,2301.18
+18,2024-01-18,Monitor,Eletrônicos,1705.56,1,Loja Norte,1705.56
+19,2024-01-19,Mesa de Escritório,Móveis,2369.71,3,Loja Centro,7109.13
+20,2024-01-20,Smartphone,Eletrônicos,2743.7,4,Loja Sul,10974.8
+21,2024-01-21,Mouse Gamer,Acessórios,385.5,2,Loja Sul,771.0
+22,2024-01-22,Monitor,Eletrônicos,1705.56,1,Loja Leste,1705.56
+23,2024-01-23,Smartphone,Eletrônicos,2743.7,7,Loja Centro,19205.9
+24,2024-01-24,Mesa de Escritório,Móveis,2369.71,8,Loja Norte,18957.68
+25,2024-01-25,Notebook,Eletrônicos,1999.0,7,Loja Sul,13993.0
+26,2024-01-26,Impressora,Periféricos,1533.64,5,Loja Norte,7668.2
+27,2024-01-27,Monitor,Eletrônicos,1705.56,1,Loja Norte,1705.56
+28,2024-01-28,Headset,Acessórios,775.68,7,Loja Sul,5429.76
+29,2024-01-29,Notebook,Eletrônicos,1999.0,7,Loja Norte,13993.0
+30,2024-01-30,Câmera de Segurança,Periféricos,891.85,9,Loja Sul,8026.65
+31,2024-01-31,Câmera de Segurança,Periféricos,891.85,3,Loja Norte,2675.55
+32,2024-02-01,Impressora,Periféricos,1533.64,9,Loja Sul,13802.76
+33,2024-02-02,Tablet,Eletrônicos,767.06,1,Loja Centro,767.06
+34,2024-02-03,Teclado Mecânico,Acessórios,671.41,1,Loja Leste,671.41
+35,2024-02-04,Cadeira Gamer,Móveis,1752.43,4,Loja Sul,7009.72
+36,2024-02-05,Headset,Acessórios,775.68,9,Loja Sul,6981.12
+37,2024-02-06,Tablet,Eletrônicos,767.06,6,Loja Leste,4602.36
+38,2024-02-07,Mesa de Escritório,Móveis,2369.71,3,Loja Sul,7109.13
+39,2024-02-08,Tablet,Eletrônicos,767.06,1,Loja Sul,767.06
+40,2024-02-09,Teclado Mecânico,Acessórios,671.41,4,Loja Norte,2685.64
+41,2024-02-10,Mesa de Escritório,Móveis,2369.71,9,Loja Leste,21327.39
+42,2024-02-11,Headset,Acessórios,775.68,3,Loja Centro,2327.04
+43,2024-02-12,Teclado Mecânico,Acessórios,671.41,9,Loja Sul,6042.69
+44,2024-02-13,Smartphone,Eletrônicos,2743.7,7,Loja Leste,19205.9
+45,2024-02-14,Cadeira Gamer,Móveis,1752.43,4,Loja Norte,7009.72
+46,2024-02-15,Headset,Acessórios,775.68,3,Loja Centro,2327.04
+47,2024-02-16,Smartphone,Eletrônicos,2743.7,5,Loja Leste,13718.5
+48,2024-02-17,Impressora,Periféricos,1533.64,5,Loja Centro,7668.2
+49,2024-02-18,Headset,Acessórios,775.68,3,Loja Centro,2327.04
+50,2024-02-19,Impressora,Periféricos,1533.64,9,Loja Centro,13802.76
+51,2024-02-20,Mesa de Escritório,Móveis,2369.71,4,Loja Sul,9478.84
+52,2024-02-21,Smartphone,Eletrônicos,2743.7,5,Loja Sul,13718.5
+53,2024-02-22,Cadeira Gamer,Móveis,1752.43,4,Loja Norte,7009.72
+54,2024-02-23,Teclado Mecânico,Acessórios,671.41,5,Loja Norte,3357.05
+55,2024-02-24,Mouse Gamer,Acessórios,385.5,7,Loja Leste,2698.5
+56,2024-02-25,Tablet,Eletrônicos,767.06,9,Loja Norte,6903.54
+57,2024-02-26,Notebook,Eletrônicos,1999.0,7,Loja Centro,13993.0
+58,2024-02-27,Cadeira Gamer,Móveis,1752.43,5,Loja Centro,8762.15
+59,2024-02-28,Smartphone,Eletrônicos,2743.7,7,Loja Sul,19205.9
+60,2024-02-29,Mouse Gamer,Acessórios,385.5,5,Loja Centro,1927.5
+61,2024-03-01,Cadeira Gamer,Móveis,1752.43,3,Loja Leste,5257.29
+62,2024-03-02,Smartphone,Eletrônicos,2743.7,7,Loja Centro,19205.9
+63,2024-03-03,Monitor,Eletrônicos,1705.56,2,Loja Centro,3411.12
+64,2024-03-04,Monitor,Eletrônicos,1705.56,9,Loja Leste,15350.04
+65,2024-03-05,Impressora,Periféricos,1533.64,1,Loja Norte,1533.64
+66,2024-03-06,Cadeira Gamer,Móveis,1752.43,6,Loja Norte,10514.58
+67,2024-03-07,Monitor,Eletrônicos,1705.56,7,Loja Leste,11938.92
+68,2024-03-08,Smartphone,Eletrônicos,2743.7,8,Loja Sul,21949.6
+69,2024-03-09,Impressora,Periféricos,1533.64,9,Loja Centro,13802.76
+70,2024-03-10,Smartphone,Eletrônicos,2743.7,2,Loja Leste,5487.4
+71,2024-03-11,Impressora,Periféricos,1533.64,2,Loja Centro,3067.28
+72,2024-03-12,Cadeira Gamer,Móveis,1752.43,5,Loja Sul,8762.15
+73,2024-03-13,Mouse Gamer,Acessórios,385.5,5,Loja Centro,1927.5
+74,2024-03-14,Teclado Mecânico,Acessórios,671.41,6,Loja Leste,4028.46
+75,2024-03-15,Headset,Acessórios,775.68,3,Loja Centro,2327.04
+76,2024-03-16,Mouse Gamer,Acessórios,385.5,8,Loja Norte,3084.0
+77,2024-03-17,Mesa de Escritório,Móveis,2369.71,1,Loja Sul,2369.71
+78,2024-03-18,Smartphone,Eletrônicos,2743.7,6,Loja Sul,16462.2
+79,2024-03-19,Mesa de Escritório,Móveis,2369.71,4,Loja Sul,9478.84
+80,2024-03-20,Mouse Gamer,Acessórios,385.5,1,Loja Leste,385.5
+81,2024-03-21,Impressora,Periféricos,1533.64,7,Loja Sul,10735.48
+82,2024-03-22,Headset,Acessórios,775.68,9,Loja Norte,6981.12
+83,2024-03-23,Headset,Acessórios,775.68,4,Loja Leste,3102.72
+84,2024-03-24,Notebook,Eletrônicos,1999.0,4,Loja Norte,7996.0
+85,2024-03-25,Headset,Acessórios,775.68,6,Loja Centro,4654.08
+86,2024-03-26,Teclado Mecânico,Acessórios,671.41,3,Loja Centro,2014.23
+87,2024-03-27,Headset,Acessórios,775.68,6,Loja Centro,4654.08
+88,2024-03-28,Mouse Gamer,Acessórios,385.5,7,Loja Centro,2698.5
+89,2024-03-29,Notebook,Eletrônicos,1999.0,3,Loja Norte,5997.0
+90,2024-03-30,Mouse Gamer,Acessórios,385.5,7,Loja Leste,2698.5
+91,2024-03-31,Mouse Gamer,Acessórios,385.5,3,Loja Leste,1156.5
+92,2024-04-01,Câmera de Segurança,Periféricos,891.85,2,Loja Sul,1783.7
+93,2024-04-02,Tablet,Eletrônicos,767.06,4,Loja Norte,3068.24
+94,2024-04-03,Notebook,Eletrônicos,1999.0,8,Loja Centro,15992.0
+95,2024-04-04,Mouse Gamer,Acessórios,385.5,9,Loja Norte,3469.5
+96,2024-04-05,Tablet,Eletrônicos,767.06,7,Loja Sul,5369.42
+97,2024-04-06,Tablet,Eletrônicos,767.06,1,Loja Sul,767.06
+98,2024-04-07,Notebook,Eletrônicos,1999.0,3,Loja Norte,5997.0
+99,2024-04-08,Câmera de Segurança,Periféricos,891.85,9,Loja Norte,8026.65
+100,2024-04-09,Mesa de Escritório,Móveis,2369.71,1,Loja Norte,2369.71
+101,2024-04-10,Impressora,Periféricos,1533.64,9,Loja Leste,13802.76
+102,2024-04-11,Teclado Mecânico,Acessórios,671.41,8,Loja Centro,5371.28
+103,2024-04-12,Impressora,Periféricos,1533.64,1,Loja Norte,1533.64
+104,2024-04-13,Headset,Acessórios,775.68,6,Loja Norte,4654.08
+105,2024-04-14,Teclado Mecânico,Acessórios,671.41,5,Loja Norte,3357.05
+106,2024-04-15,Headset,Acessórios,775.68,6,Loja Sul,4654.08
+107,2024-04-16,Mouse Gamer,Acessórios,385.5,5,Loja Sul,1927.5
+108,2024-04-17,Smartphone,Eletrônicos,2743.7,6,Loja Leste,16462.2
+109,2024-04-18,Notebook,Eletrônicos,1999.0,5,Loja Centro,9995.0
+110,2024-04-19,Teclado Mecânico,Acessórios,671.41,5,Loja Leste,3357.05
+111,2024-04-20,Teclado Mecânico,Acessórios,671.41,4,Loja Centro,2685.64
+112,2024-04-21,Mouse Gamer,Acessórios,385.5,3,Loja Sul,1156.5
+113,2024-04-22,Mesa de Escritório,Móveis,2369.71,3,Loja Sul,7109.13
+114,2024-04-23,Tablet,Eletrônicos,767.06,4,Loja Sul,3068.24
+115,2024-04-24,Mouse Gamer,Acessórios,385.5,9,Loja Leste,3469.5
+116,2024-04-25,Monitor,Eletrônicos,1705.56,2,Loja Norte,3411.12
+117,2024-04-26,Câmera de Segurança,Periféricos,891.85,9,Loja Norte,8026.65
+118,2024-04-27,Tablet,Eletrônicos,767.06,1,Loja Sul,767.06
+119,2024-04-28,Notebook,Eletrônicos,1999.0,1,Loja Norte,1999.0
+120,2024-04-29,Tablet,Eletrônicos,767.06,5,Loja Norte,3835.3
+121,2024-04-30,Mesa de Escritório,Móveis,2369.71,6,Loja Leste,14218.26
+122,2024-05-01,Tablet,Eletrônicos,767.06,6,Loja Centro,4602.36
+123,2024-05-02,Notebook,Eletrônicos,1999.0,3,Loja Sul,5997.0
+124,2024-05-03,Mesa de Escritório,Móveis,2369.71,7,Loja Sul,16587.97
+125,2024-05-04,Impressora,Periféricos,1533.64,9,Loja Leste,13802.76
+126,2024-05-05,Teclado Mecânico,Acessórios,671.41,8,Loja Leste,5371.28
+127,2024-05-06,Teclado Mecânico,Acessórios,671.41,6,Loja Norte,4028.46
+128,2024-05-07,Câmera de Segurança,Periféricos,891.85,8,Loja Sul,7134.8
+129,2024-05-08,Headset,Acessórios,775.68,5,Loja Centro,3878.4
+130,2024-05-09,Impressora,Periféricos,1533.64,8,Loja Leste,12269.12
+131,2024-05-10,Impressora,Periféricos,1533.64,4,Loja Centro,6134.56
+132,2024-05-11,Tablet,Eletrônicos,767.06,8,Loja Centro,6136.48
+133,2024-05-12,Teclado Mecânico,Acessórios,671.41,2,Loja Sul,1342.82
+134,2024-05-13,Notebook,Eletrônicos,1999.0,5,Loja Sul,9995.0
+135,2024-05-14,Cadeira Gamer,Móveis,1752.43,9,Loja Leste,15771.87
+136,2024-05-15,Cadeira Gamer,Móveis,1752.43,4,Loja Sul,7009.72
+137,2024-05-16,Mesa de Escritório,Móveis,2369.71,6,Loja Sul,14218.26
+138,2024-05-17,Teclado Mecânico,Acessórios,671.41,1,Loja Sul,671.41
+139,2024-05-18,Teclado Mecânico,Acessórios,671.41,9,Loja Centro,6042.69
+140,2024-05-19,Câmera de Segurança,Periféricos,891.85,1,Loja Leste,891.85
+141,2024-05-20,Cadeira Gamer,Móveis,1752.43,5,Loja Norte,8762.15
+142,2024-05-21,Teclado Mecânico,Acessórios,671.41,4,Loja Centro,2685.64
+143,2024-05-22,Câmera de Segurança,Periféricos,891.85,3,Loja Sul,2675.55
+144,2024-05-23,Tablet,Eletrônicos,767.06,6,Loja Centro,4602.36
+145,2024-05-24,Monitor,Eletrônicos,1705.56,2,Loja Sul,3411.12
+146,2024-05-25,Smartphone,Eletrônicos,2743.7,3,Loja Sul,8231.1
+147,2024-05-26,Impressora,Periféricos,1533.64,5,Loja Centro,7668.2
+148,2024-05-27,Headset,Acessórios,775.68,9,Loja Leste,6981.12
+149,2024-05-28,Mesa de Escritório,Móveis,2369.71,2,Loja Sul,4739.42
+150,2024-05-29,Monitor,Eletrônicos,1705.56,8,Loja Leste,13644.48
+151,2024-05-30,Cadeira Gamer,Móveis,1752.43,2,Loja Norte,3504.86
+152,2024-05-31,Câmera de Segurança,Periféricos,891.85,5,Loja Sul,4459.25
+153,2024-06-01,Impressora,Periféricos,1533.64,7,Loja Leste,10735.48
+154,2024-06-02,Teclado Mecânico,Acessórios,671.41,8,Loja Leste,5371.28
+155,2024-06-03,Headset,Acessórios,775.68,1,Loja Norte,775.68
+156,2024-06-04,Teclado Mecânico,Acessórios,671.41,6,Loja Leste,4028.46
+157,2024-06-05,Notebook,Eletrônicos,1999.0,1,Loja Leste,1999.0
+158,2024-06-06,Notebook,Eletrônicos,1999.0,2,Loja Norte,3998.0
+159,2024-06-07,Headset,Acessórios,775.68,1,Loja Sul,775.68
+160,2024-06-08,Câmera de Segurança,Periféricos,891.85,5,Loja Leste,4459.25
+161,2024-06-09,Headset,Acessórios,775.68,9,Loja Leste,6981.12
+162,2024-06-10,Cadeira Gamer,Móveis,1752.43,6,Loja Leste,10514.58
+163,2024-06-11,Headset,Acessórios,775.68,1,Loja Centro,775.68
+164,2024-06-12,Tablet,Eletrônicos,767.06,1,Loja Norte,767.06
+165,2024-06-13,Teclado Mecânico,Acessórios,671.41,2,Loja Centro,1342.82
+166,2024-06-14,Monitor,Eletrônicos,1705.56,9,Loja Norte,15350.04
+167,2024-06-15,Mouse Gamer,Acessórios,385.5,3,Loja Sul,1156.5
+168,2024-06-16,Câmera de Segurança,Periféricos,891.85,1,Loja Sul,891.85
+169,2024-06-17,Headset,Acessórios,775.68,5,Loja Leste,3878.4
+170,2024-06-18,Mesa de Escritório,Móveis,2369.71,7,Loja Norte,16587.97
+171,2024-06-19,Notebook,Eletrônicos,1999.0,6,Loja Sul,11994.0
+172,2024-06-20,Tablet,Eletrônicos,767.06,1,Loja Norte,767.06
+173,2024-06-21,Impressora,Periféricos,1533.64,5,Loja Sul,7668.2
+174,2024-06-22,Mouse Gamer,Acessórios,385.5,5,Loja Centro,1927.5
+175,2024-06-23,Câmera de Segurança,Periféricos,891.85,6,Loja Sul,5351.1
+176,2024-06-24,Monitor,Eletrônicos,1705.56,3,Loja Centro,5116.68
+177,2024-06-25,Mouse Gamer,Acessórios,385.5,5,Loja Sul,1927.5
+178,2024-06-26,Headset,Acessórios,775.68,7,Loja Leste,5429.76
+179,2024-06-27,Cadeira Gamer,Móveis,1752.43,5,Loja Centro,8762.15
+180,2024-06-28,Notebook,Eletrônicos,1999.0,5,Loja Sul,9995.0
+181,2024-06-29,Notebook,Eletrônicos,1999.0,5,Loja Leste,9995.0
+182,2024-06-30,Impressora,Periféricos,1533.64,3,Loja Centro,4600.92
+183,2024-07-01,Cadeira Gamer,Móveis,1752.43,1,Loja Leste,1752.43
+184,2024-07-02,Teclado Mecânico,Acessórios,671.41,5,Loja Norte,3357.05
+185,2024-07-03,Smartphone,Eletrônicos,2743.7,9,Loja Norte,24693.3
+186,2024-07-04,Tablet,Eletrônicos,767.06,1,Loja Centro,767.06
+187,2024-07-05,Notebook,Eletrônicos,1999.0,3,Loja Sul,5997.0
+188,2024-07-06,Mesa de Escritório,Móveis,2369.71,4,Loja Centro,9478.84
+189,2024-07-07,Notebook,Eletrônicos,1999.0,1,Loja Leste,1999.0
+190,2024-07-08,Mouse Gamer,Acessórios,385.5,1,Loja Sul,385.5
+191,2024-07-09,Notebook,Eletrônicos,1999.0,8,Loja Norte,15992.0
+192,2024-07-10,Câmera de Segurança,Periféricos,891.85,2,Loja Sul,1783.7
+193,2024-07-11,Notebook,Eletrônicos,1999.0,8,Loja Norte,15992.0
+194,2024-07-12,Smartphone,Eletrônicos,2743.7,7,Loja Sul,19205.9
+195,2024-07-13,Smartphone,Eletrônicos,2743.7,2,Loja Sul,5487.4
+196,2024-07-14,Monitor,Eletrônicos,1705.56,6,Loja Sul,10233.36
+197,2024-07-15,Teclado Mecânico,Acessórios,671.41,6,Loja Leste,4028.46
+198,2024-07-16,Mesa de Escritório,Móveis,2369.71,3,Loja Leste,7109.13
+199,2024-07-17,Notebook,Eletrônicos,1999.0,2,Loja Centro,3998.0
+200,2024-07-18,Notebook,Eletrônicos,1999.0,1,Loja Centro,1999.0
+201,2024-07-19,Tablet,Eletrônicos,767.06,6,Loja Norte,4602.36
+202,2024-07-20,Smartphone,Eletrônicos,2743.7,5,Loja Leste,13718.5
+203,2024-07-21,Mesa de Escritório,Móveis,2369.71,9,Loja Norte,21327.39
+204,2024-07-22,Impressora,Periféricos,1533.64,1,Loja Centro,1533.64
+205,2024-07-23,Monitor,Eletrônicos,1705.56,7,Loja Norte,11938.92
+206,2024-07-24,Teclado Mecânico,Acessórios,671.41,5,Loja Centro,3357.05
+207,2024-07-25,Cadeira Gamer,Móveis,1752.43,5,Loja Leste,8762.15
+208,2024-07-26,Teclado Mecânico,Acessórios,671.41,2,Loja Sul,1342.82
+209,2024-07-27,Câmera de Segurança,Periféricos,891.85,3,Loja Leste,2675.55
+210,2024-07-28,Mouse Gamer,Acessórios,385.5,7,Loja Norte,2698.5
+211,2024-07-29,Câmera de Segurança,Periféricos,891.85,6,Loja Norte,5351.1
+212,2024-07-30,Notebook,Eletrônicos,1999.0,2,Loja Leste,3998.0
+213,2024-07-31,Monitor,Eletrônicos,1705.56,6,Loja Leste,10233.36
+214,2024-08-01,Mouse Gamer,Acessórios,385.5,2,Loja Centro,771.0
+215,2024-08-02,Mesa de Escritório,Móveis,2369.71,2,Loja Norte,4739.42
+216,2024-08-03,Cadeira Gamer,Móveis,1752.43,2,Loja Norte,3504.86
+217,2024-08-04,Smartphone,Eletrônicos,2743.7,3,Loja Leste,8231.1
+218,2024-08-05,Monitor,Eletrônicos,1705.56,2,Loja Sul,3411.12
+219,2024-08-06,Monitor,Eletrônicos,1705.56,4,Loja Norte,6822.24
+220,2024-08-07,Câmera de Segurança,Periféricos,891.85,9,Loja Sul,8026.65
+221,2024-08-08,Notebook,Eletrônicos,1999.0,6,Loja Leste,11994.0
+222,2024-08-09,Headset,Acessórios,775.68,1,Loja Leste,775.68
+223,2024-08-10,Câmera de Segurança,Periféricos,891.85,8,Loja Centro,7134.8
+224,2024-08-11,Monitor,Eletrônicos,1705.56,7,Loja Norte,11938.92
+225,2024-08-12,Tablet,Eletrônicos,767.06,3,Loja Sul,2301.18
+226,2024-08-13,Cadeira Gamer,Móveis,1752.43,1,Loja Centro,1752.43
+227,2024-08-14,Câmera de Segurança,Periféricos,891.85,5,Loja Norte,4459.25
+228,2024-08-15,Cadeira Gamer,Móveis,1752.43,4,Loja Centro,7009.72
+229,2024-08-16,Tablet,Eletrônicos,767.06,8,Loja Leste,6136.48
+230,2024-08-17,Impressora,Periféricos,1533.64,1,Loja Norte,1533.64
+231,2024-08-18,Tablet,Eletrônicos,767.06,1,Loja Centro,767.06
+232,2024-08-19,Tablet,Eletrônicos,767.06,4,Loja Centro,3068.24
+233,2024-08-20,Cadeira Gamer,Móveis,1752.43,8,Loja Sul,14019.44
+234,2024-08-21,Teclado Mecânico,Acessórios,671.41,5,Loja Centro,3357.05
+235,2024-08-22,Cadeira Gamer,Móveis,1752.43,2,Loja Norte,3504.86
+236,2024-08-23,Headset,Acessórios,775.68,6,Loja Norte,4654.08
+237,2024-08-24,Notebook,Eletrônicos,1999.0,5,Loja Sul,9995.0
+238,2024-08-25,Mouse Gamer,Acessórios,385.5,2,Loja Norte,771.0
+239,2024-08-26,Teclado Mecânico,Acessórios,671.41,3,Loja Leste,2014.23
+240,2024-08-27,Smartphone,Eletrônicos,2743.7,9,Loja Norte,24693.3
+241,2024-08-28,Mouse Gamer,Acessórios,385.5,7,Loja Norte,2698.5
+242,2024-08-29,Notebook,Eletrônicos,1999.0,7,Loja Centro,13993.0
+243,2024-08-30,Câmera de Segurança,Periféricos,891.85,6,Loja Centro,5351.1
+244,2024-08-31,Headset,Acessórios,775.68,8,Loja Norte,6205.44
+245,2024-09-01,Headset,Acessórios,775.68,4,Loja Sul,3102.72
+246,2024-09-02,Smartphone,Eletrônicos,2743.7,8,Loja Centro,21949.6
+247,2024-09-03,Teclado Mecânico,Acessórios,671.41,4,Loja Sul,2685.64
+248,2024-09-04,Impressora,Periféricos,1533.64,8,Loja Norte,12269.12
+249,2024-09-05,Tablet,Eletrônicos,767.06,9,Loja Norte,6903.54
+250,2024-09-06,Teclado Mecânico,Acessórios,671.41,3,Loja Leste,2014.23
+251,2024-09-07,Impressora,Periféricos,1533.64,3,Loja Centro,4600.92
+252,2024-09-08,Headset,Acessórios,775.68,2,Loja Norte,1551.36
+253,2024-09-09,Cadeira Gamer,Móveis,1752.43,3,Loja Leste,5257.29
+254,2024-09-10,Notebook,Eletrônicos,1999.0,3,Loja Centro,5997.0
+255,2024-09-11,Smartphone,Eletrônicos,2743.7,5,Loja Norte,13718.5
+256,2024-09-12,Notebook,Eletrônicos,1999.0,5,Loja Norte,9995.0
+257,2024-09-13,Mesa de Escritório,Móveis,2369.71,2,Loja Centro,4739.42
+258,2024-09-14,Mesa de Escritório,Móveis,2369.71,6,Loja Centro,14218.26
+259,2024-09-15,Câmera de Segurança,Periféricos,891.85,5,Loja Centro,4459.25
+260,2024-09-16,Teclado Mecânico,Acessórios,671.41,6,Loja Norte,4028.46
+261,2024-09-17,Headset,Acessórios,775.68,1,Loja Norte,775.68
+262,2024-09-18,Headset,Acessórios,775.68,5,Loja Leste,3878.4
+263,2024-09-19,Tablet,Eletrônicos,767.06,9,Loja Sul,6903.54
+264,2024-09-20,Tablet,Eletrônicos,767.06,2,Loja Centro,1534.12
+265,2024-09-21,Tablet,Eletrônicos,767.06,1,Loja Norte,767.06
+266,2024-09-22,Cadeira Gamer,Móveis,1752.43,9,Loja Norte,15771.87
+267,2024-09-23,Mouse Gamer,Acessórios,385.5,9,Loja Centro,3469.5
+268,2024-09-24,Monitor,Eletrônicos,1705.56,9,Loja Sul,15350.04
+269,2024-09-25,Mouse Gamer,Acessórios,385.5,6,Loja Centro,2313.0
+270,2024-09-26,Notebook,Eletrônicos,1999.0,8,Loja Sul,15992.0
+271,2024-09-27,Mouse Gamer,Acessórios,385.5,1,Loja Norte,385.5
+272,2024-09-28,Cadeira Gamer,Móveis,1752.43,4,Loja Sul,7009.72
+273,2024-09-29,Câmera de Segurança,Periféricos,891.85,1,Loja Leste,891.85
+274,2024-09-30,Notebook,Eletrônicos,1999.0,8,Loja Norte,15992.0
+275,2024-10-01,Mouse Gamer,Acessórios,385.5,1,Loja Leste,385.5
+276,2024-10-02,Cadeira Gamer,Móveis,1752.43,3,Loja Centro,5257.29
+277,2024-10-03,Monitor,Eletrônicos,1705.56,4,Loja Centro,6822.24
+278,2024-10-04,Mouse Gamer,Acessórios,385.5,8,Loja Centro,3084.0
+279,2024-10-05,Cadeira Gamer,Móveis,1752.43,6,Loja Sul,10514.58
+280,2024-10-06,Tablet,Eletrônicos,767.06,7,Loja Norte,5369.42
+281,2024-10-07,Headset,Acessórios,775.68,8,Loja Centro,6205.44
+282,2024-10-08,Tablet,Eletrônicos,767.06,2,Loja Centro,1534.12
+283,2024-10-09,Headset,Acessórios,775.68,8,Loja Norte,6205.44
+284,2024-10-10,Smartphone,Eletrônicos,2743.7,3,Loja Centro,8231.1
+285,2024-10-11,Smartphone,Eletrônicos,2743.7,7,Loja Leste,19205.9
+286,2024-10-12,Smartphone,Eletrônicos,2743.7,3,Loja Norte,8231.1
+287,2024-10-13,Monitor,Eletrônicos,1705.56,7,Loja Norte,11938.92
+288,2024-10-14,Tablet,Eletrônicos,767.06,2,Loja Norte,1534.12
+289,2024-10-15,Headset,Acessórios,775.68,6,Loja Leste,4654.08
+290,2024-10-16,Cadeira Gamer,Móveis,1752.43,3,Loja Norte,5257.29
+291,2024-10-17,Notebook,Eletrônicos,1999.0,3,Loja Leste,5997.0
+292,2024-10-18,Cadeira Gamer,Móveis,1752.43,9,Loja Norte,15771.87
+293,2024-10-19,Notebook,Eletrônicos,1999.0,7,Loja Sul,13993.0
+294,2024-10-20,Mesa de Escritório,Móveis,2369.71,5,Loja Centro,11848.55
+295,2024-10-21,Cadeira Gamer,Móveis,1752.43,7,Loja Sul,12267.01
+296,2024-10-22,Mouse Gamer,Acessórios,385.5,9,Loja Centro,3469.5
+297,2024-10-23,Mouse Gamer,Acessórios,385.5,1,Loja Leste,385.5
+298,2024-10-24,Teclado Mecânico,Acessórios,671.41,7,Loja Sul,4699.87
+299,2024-10-25,Tablet,Eletrônicos,767.06,6,Loja Norte,4602.36
+300,2024-10-26,Notebook,Eletrônicos,1999.0,9,Loja Centro,17991.0
+301,2024-10-27,Notebook,Eletrônicos,1999.0,1,Loja Centro,1999.0
+302,2024-10-28,Câmera de Segurança,Periféricos,891.85,4,Loja Sul,3567.4
+303,2024-10-29,Tablet,Eletrônicos,767.06,9,Loja Leste,6903.54
+304,2024-10-30,Monitor,Eletrônicos,1705.56,4,Loja Sul,6822.24
+305,2024-10-31,Teclado Mecânico,Acessórios,671.41,3,Loja Leste,2014.23
+306,2024-11-01,Monitor,Eletrônicos,1705.56,9,Loja Leste,15350.04
+307,2024-11-02,Monitor,Eletrônicos,1705.56,2,Loja Centro,3411.12
+308,2024-11-03,Monitor,Eletrônicos,1705.56,4,Loja Sul,6822.24
+309,2024-11-04,Tablet,Eletrônicos,767.06,6,Loja Sul,4602.36
+310,2024-11-05,Monitor,Eletrônicos,1705.56,2,Loja Leste,3411.12
+311,2024-11-06,Mouse Gamer,Acessórios,385.5,8,Loja Sul,3084.0
+312,2024-11-07,Câmera de Segurança,Periféricos,891.85,8,Loja Norte,7134.8
+313,2024-11-08,Câmera de Segurança,Periféricos,891.85,1,Loja Norte,891.85
+314,2024-11-09,Smartphone,Eletrônicos,2743.7,3,Loja Sul,8231.1
+315,2024-11-10,Mesa de Escritório,Móveis,2369.71,9,Loja Sul,21327.39
+316,2024-11-11,Notebook,Eletrônicos,1999.0,5,Loja Leste,9995.0
+317,2024-11-12,Notebook,Eletrônicos,1999.0,6,Loja Norte,11994.0
+318,2024-11-13,Mesa de Escritório,Móveis,2369.71,4,Loja Norte,9478.84
+319,2024-11-14,Tablet,Eletrônicos,767.06,2,Loja Centro,1534.12
+320,2024-11-15,Cadeira Gamer,Móveis,1752.43,8,Loja Leste,14019.44
+321,2024-11-16,Tablet,Eletrônicos,767.06,6,Loja Centro,4602.36
+322,2024-11-17,Notebook,Eletrônicos,1999.0,5,Loja Norte,9995.0
+323,2024-11-18,Notebook,Eletrônicos,1999.0,9,Loja Leste,17991.0
+324,2024-11-19,Mesa de Escritório,Móveis,2369.71,1,Loja Sul,2369.71
+325,2024-11-20,Monitor,Eletrônicos,1705.56,5,Loja Leste,8527.8
+326,2024-11-21,Tablet,Eletrônicos,767.06,6,Loja Sul,4602.36
+327,2024-11-22,Headset,Acessórios,775.68,5,Loja Sul,3878.4
+328,2024-11-23,Mesa de Escritório,Móveis,2369.71,6,Loja Leste,14218.26
+329,2024-11-24,Mouse Gamer,Acessórios,385.5,6,Loja Sul,2313.0
+330,2024-11-25,Notebook,Eletrônicos,1999.0,7,Loja Centro,13993.0
+331,2024-11-26,Mesa de Escritório,Móveis,2369.71,4,Loja Norte,9478.84
+332,2024-11-27,Tablet,Eletrônicos,767.06,8,Loja Sul,6136.48
+333,2024-11-28,Notebook,Eletrônicos,1999.0,7,Loja Centro,13993.0
+334,2024-11-29,Cadeira Gamer,Móveis,1752.43,9,Loja Sul,15771.87
+335,2024-11-30,Mesa de Escritório,Móveis,2369.71,7,Loja Norte,16587.97
+336,2024-12-01,Teclado Mecânico,Acessórios,671.41,3,Loja Centro,2014.23
+337,2024-12-02,Notebook,Eletrônicos,1999.0,3,Loja Norte,5997.0
+338,2024-12-03,Tablet,Eletrônicos,767.06,8,Loja Norte,6136.48
+339,2024-12-04,Smartphone,Eletrônicos,2743.7,5,Loja Centro,13718.5
+340,2024-12-05,Headset,Acessórios,775.68,4,Loja Centro,3102.72
+341,2024-12-06,Impressora,Periféricos,1533.64,8,Loja Centro,12269.12
+342,2024-12-07,Monitor,Eletrônicos,1705.56,6,Loja Leste,10233.36
+343,2024-12-08,Impressora,Periféricos,1533.64,2,Loja Centro,3067.28
+344,2024-12-09,Tablet,Eletrônicos,767.06,4,Loja Centro,3068.24
+345,2024-12-10,Mouse Gamer,Acessórios,385.5,4,Loja Centro,1542.0
+346,2024-12-11,Mouse Gamer,Acessórios,385.5,6,Loja Centro,2313.0
+347,2024-12-12,Smartphone,Eletrônicos,2743.7,6,Loja Sul,16462.2
+348,2024-12-13,Monitor,Eletrônicos,1705.56,1,Loja Leste,1705.56
+349,2024-12-14,Teclado Mecânico,Acessórios,671.41,8,Loja Norte,5371.28
+350,2024-12-15,Smartphone,Eletrônicos,2743.7,6,Loja Centro,16462.2
+351,2024-12-16,Câmera de Segurança,Periféricos,891.85,3,Loja Sul,2675.55
+352,2024-12-17,Impressora,Periféricos,1533.64,9,Loja Sul,13802.76
+353,2024-12-18,Smartphone,Eletrônicos,2743.7,2,Loja Sul,5487.4
+354,2024-12-19,Impressora,Periféricos,1533.64,8,Loja Norte,12269.12
+355,2024-12-20,Notebook,Eletrônicos,1999.0,3,Loja Centro,5997.0
+356,2024-12-21,Mouse Gamer,Acessórios,385.5,5,Loja Leste,1927.5
+357,2024-12-22,Notebook,Eletrônicos,1999.0,6,Loja Leste,11994.0
+358,2024-12-23,Headset,Acessórios,775.68,6,Loja Sul,4654.08
+359,2024-12-24,Câmera de Segurança,Periféricos,891.85,4,Loja Norte,3567.4
+360,2024-12-25,Monitor,Eletrônicos,1705.56,3,Loja Norte,5116.68
+361,2024-12-26,Teclado Mecânico,Acessórios,671.41,4,Loja Norte,2685.64
+362,2024-12-27,Impressora,Periféricos,1533.64,1,Loja Leste,1533.64
+363,2024-12-28,Teclado Mecânico,Acessórios,671.41,4,Loja Sul,2685.64
+364,2024-12-29,Impressora,Periféricos,1533.64,1,Loja Centro,1533.64
+365,2024-12-30,Tablet,Eletrônicos,767.06,1,Loja Leste,767.06
+366,2024-12-31,Smartphone,Eletrônicos,2743.7,6,Loja Sul,16462.2
+367,2025-01-01,Headset,Acessórios,775.68,5,Loja Sul,3878.4
+368,2025-01-02,Mouse Gamer,Acessórios,385.5,4,Loja Centro,1542.0
+369,2025-01-03,Impressora,Periféricos,1533.64,3,Loja Centro,4600.92
+370,2025-01-04,Teclado Mecânico,Acessórios,671.41,1,Loja Centro,671.41
+371,2025-01-05,Headset,Acessórios,775.68,6,Loja Norte,4654.08
+372,2025-01-06,Cadeira Gamer,Móveis,1752.43,2,Loja Centro,3504.86
+373,2025-01-07,Cadeira Gamer,Móveis,1752.43,8,Loja Sul,14019.44
+374,2025-01-08,Notebook,Eletrônicos,1999.0,5,Loja Centro,9995.0
+375,2025-01-09,Mouse Gamer,Acessórios,385.5,7,Loja Sul,2698.5
+376,2025-01-10,Tablet,Eletrônicos,767.06,2,Loja Leste,1534.12
+377,2025-01-11,Teclado Mecânico,Acessórios,671.41,8,Loja Norte,5371.28
+378,2025-01-12,Smartphone,Eletrônicos,2743.7,2,Loja Leste,5487.4
+379,2025-01-13,Smartphone,Eletrônicos,2743.7,4,Loja Leste,10974.8
+380,2025-01-14,Teclado Mecânico,Acessórios,671.41,1,Loja Sul,671.41
+381,2025-01-15,Monitor,Eletrônicos,1705.56,5,Loja Leste,8527.8
+382,2025-01-16,Tablet,Eletrônicos,767.06,9,Loja Sul,6903.54
+383,2025-01-17,Headset,Acessórios,775.68,1,Loja Centro,775.68
+384,2025-01-18,Impressora,Periféricos,1533.64,9,Loja Centro,13802.76
+385,2025-01-19,Monitor,Eletrônicos,1705.56,8,Loja Sul,13644.48
+386,2025-01-20,Impressora,Periféricos,1533.64,6,Loja Centro,9201.84
+387,2025-01-21,Impressora,Periféricos,1533.64,7,Loja Norte,10735.48
+388,2025-01-22,Monitor,Eletrônicos,1705.56,3,Loja Leste,5116.68
+389,2025-01-23,Notebook,Eletrônicos,1999.0,1,Loja Norte,1999.0
+390,2025-01-24,Cadeira Gamer,Móveis,1752.43,5,Loja Leste,8762.15
+391,2025-01-25,Impressora,Periféricos,1533.64,2,Loja Centro,3067.28
+392,2025-01-26,Monitor,Eletrônicos,1705.56,5,Loja Norte,8527.8
+393,2025-01-27,Monitor,Eletrônicos,1705.56,8,Loja Centro,13644.48
+394,2025-01-28,Câmera de Segurança,Periféricos,891.85,9,Loja Leste,8026.65
+395,2025-01-29,Mesa de Escritório,Móveis,2369.71,2,Loja Sul,4739.42
+396,2025-01-30,Notebook,Eletrônicos,1999.0,3,Loja Sul,5997.0
+397,2025-01-31,Mouse Gamer,Acessórios,385.5,3,Loja Norte,1156.5
+398,2025-02-01,Mesa de Escritório,Móveis,2369.71,1,Loja Centro,2369.71
+399,2025-02-02,Mesa de Escritório,Móveis,2369.71,8,Loja Centro,18957.68
+400,2025-02-03,Teclado Mecânico,Acessórios,671.41,6,Loja Norte,4028.46
+401,2025-02-04,Cadeira Gamer,Móveis,1752.43,8,Loja Sul,14019.44
+402,2025-02-05,Monitor,Eletrônicos,1705.56,9,Loja Leste,15350.04
+403,2025-02-06,Cadeira Gamer,Móveis,1752.43,5,Loja Norte,8762.15
+404,2025-02-07,Tablet,Eletrônicos,767.06,3,Loja Leste,2301.18
+405,2025-02-08,Teclado Mecânico,Acessórios,671.41,5,Loja Sul,3357.05
+406,2025-02-09,Mouse Gamer,Acessórios,385.5,5,Loja Centro,1927.5
+407,2025-02-10,Cadeira Gamer,Móveis,1752.43,5,Loja Sul,8762.15
+408,2025-02-11,Smartphone,Eletrônicos,2743.7,3,Loja Norte,8231.1
+409,2025-02-12,Impressora,Periféricos,1533.64,4,Loja Centro,6134.56
+410,2025-02-13,Tablet,Eletrônicos,767.06,9,Loja Norte,6903.54
+411,2025-02-14,Notebook,Eletrônicos,1999.0,9,Loja Norte,17991.0
+412,2025-02-15,Mouse Gamer,Acessórios,385.5,2,Loja Sul,771.0
+413,2025-02-16,Tablet,Eletrônicos,767.06,8,Loja Norte,6136.48
+414,2025-02-17,Impressora,Periféricos,1533.64,8,Loja Sul,12269.12
+415,2025-02-18,Teclado Mecânico,Acessórios,671.41,7,Loja Centro,4699.87
+416,2025-02-19,Impressora,Periféricos,1533.64,8,Loja Sul,12269.12
+417,2025-02-20,Mesa de Escritório,Móveis,2369.71,3,Loja Centro,7109.13
+418,2025-02-21,Impressora,Periféricos,1533.64,6,Loja Sul,9201.84
+419,2025-02-22,Mesa de Escritório,Móveis,2369.71,1,Loja Leste,2369.71
+420,2025-02-23,Teclado Mecânico,Acessórios,671.41,7,Loja Leste,4699.87
+421,2025-02-24,Headset,Acessórios,775.68,1,Loja Norte,775.68
+422,2025-02-25,Mesa de Escritório,Móveis,2369.71,9,Loja Sul,21327.39
+423,2025-02-26,Notebook,Eletrônicos,1999.0,1,Loja Sul,1999.0
+424,2025-02-27,Impressora,Periféricos,1533.64,1,Loja Centro,1533.64
+425,2025-02-28,Impressora,Periféricos,1533.64,7,Loja Norte,10735.48
+426,2025-03-01,Notebook,Eletrônicos,1999.0,2,Loja Sul,3998.0
+427,2025-03-02,Smartphone,Eletrônicos,2743.7,5,Loja Norte,13718.5
+428,2025-03-03,Monitor,Eletrônicos,1705.56,8,Loja Leste,13644.48
+429,2025-03-04,Headset,Acessórios,775.68,8,Loja Sul,6205.44
+430,2025-03-05,Mouse Gamer,Acessórios,385.5,3,Loja Sul,1156.5
+431,2025-03-06,Mesa de Escritório,Móveis,2369.71,7,Loja Norte,16587.97
+432,2025-03-07,Notebook,Eletrônicos,1999.0,3,Loja Sul,5997.0
+433,2025-03-08,Teclado Mecânico,Acessórios,671.41,6,Loja Norte,4028.46
+434,2025-03-09,Mesa de Escritório,Móveis,2369.71,6,Loja Sul,14218.26
+435,2025-03-10,Monitor,Eletrônicos,1705.56,3,Loja Centro,5116.68
+436,2025-03-11,Teclado Mecânico,Acessórios,671.41,7,Loja Norte,4699.87
+437,2025-03-12,Tablet,Eletrônicos,767.06,3,Loja Sul,2301.18
+438,2025-03-13,Impressora,Periféricos,1533.64,8,Loja Leste,12269.12
+439,2025-03-14,Tablet,Eletrônicos,767.06,4,Loja Sul,3068.24
+440,2025-03-15,Mesa de Escritório,Móveis,2369.71,1,Loja Leste,2369.71
+441,2025-03-16,Monitor,Eletrônicos,1705.56,4,Loja Leste,6822.24
+442,2025-03-17,Headset,Acessórios,775.68,7,Loja Centro,5429.76
+443,2025-03-18,Mesa de Escritório,Móveis,2369.71,4,Loja Norte,9478.84
+444,2025-03-19,Notebook,Eletrônicos,1999.0,6,Loja Sul,11994.0
+445,2025-03-20,Cadeira Gamer,Móveis,1752.43,9,Loja Centro,15771.87
+446,2025-03-21,Mesa de Escritório,Móveis,2369.71,1,Loja Sul,2369.71
+447,2025-03-22,Impressora,Periféricos,1533.64,5,Loja Leste,7668.2
+448,2025-03-23,Impressora,Periféricos,1533.64,7,Loja Norte,10735.48
+449,2025-03-24,Mesa de Escritório,Móveis,2369.71,1,Loja Sul,2369.71
+450,2025-03-25,Teclado Mecânico,Acessórios,671.41,4,Loja Sul,2685.64
+451,2025-03-26,Cadeira Gamer,Móveis,1752.43,6,Loja Leste,10514.58
+452,2025-03-27,Notebook,Eletrônicos,1999.0,2,Loja Sul,3998.0
+453,2025-03-28,Mesa de Escritório,Móveis,2369.71,5,Loja Sul,11848.55
+454,2025-03-29,Teclado Mecânico,Acessórios,671.41,1,Loja Leste,671.41
+455,2025-03-30,Impressora,Periféricos,1533.64,6,Loja Centro,9201.84
+456,2025-03-31,Impressora,Periféricos,1533.64,6,Loja Leste,9201.84
+457,2025-04-01,Monitor,Eletrônicos,1705.56,4,Loja Centro,6822.24
+458,2025-04-02,Mesa de Escritório,Móveis,2369.71,8,Loja Norte,18957.68
+459,2025-04-03,Cadeira Gamer,Móveis,1752.43,4,Loja Centro,7009.72
+460,2025-04-04,Smartphone,Eletrônicos,2743.7,8,Loja Centro,21949.6
+461,2025-04-05,Cadeira Gamer,Móveis,1752.43,8,Loja Norte,14019.44
+462,2025-04-06,Impressora,Periféricos,1533.64,5,Loja Centro,7668.2
+463,2025-04-07,Impressora,Periféricos,1533.64,4,Loja Leste,6134.56
+464,2025-04-08,Tablet,Eletrônicos,767.06,2,Loja Centro,1534.12
+465,2025-04-09,Impressora,Periféricos,1533.64,3,Loja Norte,4600.92
+466,2025-04-10,Notebook,Eletrônicos,1999.0,3,Loja Leste,5997.0
+467,2025-04-11,Mouse Gamer,Acessórios,385.5,4,Loja Norte,1542.0
+468,2025-04-12,Mesa de Escritório,Móveis,2369.71,4,Loja Norte,9478.84
+469,2025-04-13,Cadeira Gamer,Móveis,1752.43,5,Loja Sul,8762.15
+470,2025-04-14,Mouse Gamer,Acessórios,385.5,4,Loja Sul,1542.0
+471,2025-04-15,Teclado Mecânico,Acessórios,671.41,8,Loja Norte,5371.28
+472,2025-04-16,Smartphone,Eletrônicos,2743.7,6,Loja Norte,16462.2
+473,2025-04-17,Notebook,Eletrônicos,1999.0,6,Loja Norte,11994.0
+474,2025-04-18,Câmera de Segurança,Periféricos,891.85,8,Loja Sul,7134.8
+475,2025-04-19,Cadeira Gamer,Móveis,1752.43,7,Loja Sul,12267.01
+476,2025-04-20,Mouse Gamer,Acessórios,385.5,8,Loja Centro,3084.0
+477,2025-04-21,Smartphone,Eletrônicos,2743.7,2,Loja Centro,5487.4
+478,2025-04-22,Tablet,Eletrônicos,767.06,9,Loja Norte,6903.54
+479,2025-04-23,Notebook,Eletrônicos,1999.0,1,Loja Leste,1999.0
+480,2025-04-24,Notebook,Eletrônicos,1999.0,8,Loja Leste,15992.0
+481,2025-04-25,Tablet,Eletrônicos,767.06,4,Loja Sul,3068.24
+482,2025-04-26,Câmera de Segurança,Periféricos,891.85,4,Loja Sul,3567.4
+483,2025-04-27,Mesa de Escritório,Móveis,2369.71,5,Loja Sul,11848.55
+484,2025-04-28,Tablet,Eletrônicos,767.06,8,Loja Norte,6136.48
+485,2025-04-29,Notebook,Eletrônicos,1999.0,5,Loja Leste,9995.0
+486,2025-04-30,Notebook,Eletrônicos,1999.0,8,Loja Centro,15992.0
+487,2025-05-01,Mouse Gamer,Acessórios,385.5,1,Loja Norte,385.5
+488,2025-05-02,Impressora,Periféricos,1533.64,9,Loja Centro,13802.76
+489,2025-05-03,Câmera de Segurança,Periféricos,891.85,6,Loja Centro,5351.1
+490,2025-05-04,Smartphone,Eletrônicos,2743.7,3,Loja Norte,8231.1
+491,2025-05-05,Tablet,Eletrônicos,767.06,8,Loja Centro,6136.48
+492,2025-05-06,Smartphone,Eletrônicos,2743.7,9,Loja Leste,24693.3
+493,2025-05-07,Tablet,Eletrônicos,767.06,6,Loja Centro,4602.36
+494,2025-05-08,Teclado Mecânico,Acessórios,671.41,7,Loja Leste,4699.87
+495,2025-05-09,Notebook,Eletrônicos,1999.0,1,Loja Leste,1999.0
+496,2025-05-10,Impressora,Periféricos,1533.64,5,Loja Leste,7668.2
+497,2025-05-11,Mouse Gamer,Acessórios,385.5,5,Loja Sul,1927.5
+498,2025-05-12,Impressora,Periféricos,1533.64,4,Loja Centro,6134.56
+499,2025-05-13,Impressora,Periféricos,1533.64,6,Loja Norte,9201.84
+500,2025-05-14,Impressora,Periféricos,1533.64,7,Loja Norte,10735.48
