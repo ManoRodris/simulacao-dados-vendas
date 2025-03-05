@@ -1,72 +1,67 @@
-Simulação de Dados de Vendas
+# 📊 Simulação de Dados de Vendas
 
-Este projeto tem como objetivo simular, analisar e visualizar um conjunto fictício de dados de vendas utilizando Python, Pandas, NumPy, Streamlit e Plotly. Através dele, foram aplicados conceitos fundamentais de análise de dados e estatística para extrair insights relevantes.
+Este projeto tem como objetivo **simular, analisar e visualizar** um conjunto fictício de dados de vendas utilizando **Python, Pandas, NumPy, Streamlit e Plotly**.  
+Aplicamos conceitos fundamentais de **análise de dados e estatística** para extrair insights relevantes.
 
-🔑 Objetivos
+---
 
-Criar um dataset fictício com informações de vendas.
+## 🔑 Objetivos
 
-Explorar os dados para entender tendências e padrões.
+✅ Criar um dataset fictício com informações de vendas.  
+✅ Explorar os dados para entender tendências e padrões.  
+✅ Calcular métricas como **ticket médio, receita por loja e produto mais vendido**.  
+✅ Visualizar os dados por meio de gráficos e tabelas interativas.  
+✅ Aplicar conceitos de **variação percentual e média móvel** para identificar tendências de vendas.  
 
-Calcular métricas como ticket médio, receita por loja e produto mais vendido.
+---
 
-Visualizar os dados por meio de gráficos e tabelas interativas.
+## 📂 Estrutura do Projeto
 
-Aplicar conceitos de variação percentual e média móvel para identificar tendências de vendas.
+📁 `simulacao-dados-vendas`  
+├── 📜 `01_dataset.py` → **Criação do dataset fictício**  
+├── 📜 `02_eda.py` → **Análise Exploratória dos Dados**  
+├── 📜 `03_visualizacao_dados.py` → **Criação de gráficos e visualizações**  
+├── 📄 `dados_vendas.csv` → **Dataset gerado para análise**  
 
-📄 Estrutura do Projeto
+---
 
-01_dataset.py → Criação do dataset fictício.
+## 📊 Análises Realizadas
 
-02_eda.py → Análise Exploratória dos Dados.
+🔹 **Receita total por loja**  
+🔹 **Produto mais vendido por quantidade**  
+🔹 **Ticket médio das vendas**  
+🔹 **Faturamento por categoria**  
 
-03_visualizacao_dados.py → Criação de gráficos e visualizações.
+---
 
-dados_vendas.csv → Dataset gerado para análise.
+## 🛠️ Tecnologias Utilizadas
 
-📊 Análises Realizadas
+🚀 **Linguagem**: Python  
+📊 **Bibliotecas**: Pandas, NumPy, Streamlit, Plotly  
 
-Receita total por loja.
+---
 
-Produto mais vendido por quantidade.
+## 🔍 Como Rodar o Projeto
 
-Ticket médio das vendas.
-
-Faturamento por categoria.
-
-🛠️ Tecnologias Utilizadas
-
-Python
-
-Pandas
-
-NumPy
-
-Streamlit
-
-Plotly
-
-🔍 Como Rodar o Projeto
-
-Clone o repositório:
-
-git clone https://github.com/ManoRodris/simulacao-dados-vendas.git
-
-Instale as dependências:
-
+1️⃣ **Clone o repositório:**
+```bash
+   git clone https://github.com/ManoRodris/simulacao-dados-vendas.git
+```
+2️⃣ **Instale as dependências:**
+```bash
 pip install -r requirements.txt
+```
+3️⃣ **Execute os notebooks na ordem indicada.**
 
-Execute os notebooks na ordem indicada.
+## 📌 Contribuições
 
-📌 Contribuições
+💡 Se você quiser sugerir melhorias ou novas funcionalidades, sinta-se à vontade para abrir uma issue ou enviar um pull request!
 
-Se você quiser sugerir melhorias ou novas funcionalidades, sinta-se à vontade para abrir uma issue ou enviar um pull request!
+## 🎯 Contato
 
-🎯 Contato
+📩 Vamos conversar sobre análise de dados? Me encontre no LinkedIn: www.linkedin.com/in/rodrigo-dórea
 
-Vamos conversar sobre análise de dados? Me encontre no LinkedIn: www.linkedin.com/in/rodrigo-dórea
-
-Autor: Rodrigo Dórea
+👨‍💻 Autor: Rodrigo Dórea
 
 #DataScience #Python #AnaliseDeDados #Pandas #NumPy 
 
