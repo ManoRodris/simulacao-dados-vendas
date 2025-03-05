@@ -3,7 +3,7 @@
 Este projeto tem como objetivo **simular, analisar e visualizar** um conjunto fictício de dados de vendas utilizando **Python, Pandas, NumPy, Streamlit e Plotly**.  
 Aplicamos conceitos fundamentais de **análise de dados e estatística** para extrair insights relevantes.
 
----
+
 
 ## 🔑 Objetivos
 
@@ -13,7 +13,7 @@ Aplicamos conceitos fundamentais de **análise de dados e estatística** para ex
 ✅ Visualizar os dados por meio de gráficos e tabelas interativas.  
 ✅ Aplicar conceitos de **variação percentual e média móvel** para identificar tendências de vendas.  
 
----
+
 
 ## 📂 Estrutura do Projeto
 
@@ -23,7 +23,7 @@ Aplicamos conceitos fundamentais de **análise de dados e estatística** para ex
 ├── 📜 `03_visualizacao_dados.py` → **Criação de gráficos e visualizações**  
 ├── 📄 `dados_vendas.csv` → **Dataset gerado para análise**  
 
----
+
 
 ## 📊 Análises Realizadas
 
@@ -32,14 +32,14 @@ Aplicamos conceitos fundamentais de **análise de dados e estatística** para ex
 🔹 **Ticket médio das vendas**  
 🔹 **Faturamento por categoria**  
 
----
+
 
 ## 🛠️ Tecnologias Utilizadas
 
 🚀 **Linguagem**: Python  
 📊 **Bibliotecas**: Pandas, NumPy, Streamlit, Plotly  
 
----
+
 
 ## 🔍 Como Rodar o Projeto
 
@@ -49,7 +49,7 @@ Aplicamos conceitos fundamentais de **análise de dados e estatística** para ex
 ```
 2️⃣ **Instale as dependências:**
 ```bash
-pip install -r requirements.txt
+   pip install -r requirements.txt
 ```
 3️⃣ **Execute os notebooks na ordem indicada.**
 
