@@ -28,6 +28,7 @@ receita_por_categoria = df.groupby('categoria')['valor_total'].sum().reset_index
 df['data'] = pd.to_datetime(df['data'])
 df['ano_mes'] = df['data'].dt.to_period('M')
 df_mensal = df.groupby('ano_mes')['valor_total'].sum().reset_index()
+print(df_mensal)
 
 
 
