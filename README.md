@@ -22,7 +22,7 @@ Aplicamos conceitos fundamentais de **análise de dados e estatística** para ex
 ├── 📜 `02_eda.py` → **Análise Exploratória dos Dados**  
 ├── 📜 `03_visualizacao_dados.py` → **Criação de gráficos e visualizações**  
 ├── 📄 `dados_vendas.csv` → **Dataset gerado para análise**  
-
+├── 📄 `requirements.txt` → **Lista de dependências necessárias** 
 
 
 ## 📊 Análises Realizadas
